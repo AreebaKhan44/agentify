@@ -1,4 +1,4 @@
-const BASE = "https://project-six-henna-59.vercel.app/";
+const BASE = "https://project-six-henna-59.vercel.app/api";
 
 export const api = {
   async getQR() {
